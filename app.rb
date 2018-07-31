@@ -38,7 +38,6 @@ class App < Sinatra::Base
     else 
       puts "sorry, that is not an option"
     end
-   answer
-
+  # puts answer
   end
 end
